@@ -1,0 +1,20 @@
+# Video Screenshot and Note-Taking Extension
+
+## Introduction
+
+This browser extension allows you to take screenshots while watching videos, add notes to the screenshots, and compile them into a downloadable PDF.
+It's perfect for students, professionals, and anyone who needs to capture and annotate important moments from video content.
+
+## Features
+
+- Take screenshots of videos with a single click.
+- Add notes to each screenshot.
+- Compile all screenshots and notes into a single PDF.
+- Easy to use interface.
+- Supports various video platforms.
+
+## Installation
+
+1. Clone this repository or download the ZIP file.
+   ```bash
+   git clone https://github.com/your-username/video-screenshot-note-extension.git
